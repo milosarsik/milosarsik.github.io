@@ -8,7 +8,7 @@
 - name: Git
   weight: 5
   
-  - name: ClearCase
+- name: ClearCase
   weight: 2
 
 - name: Bash
@@ -23,8 +23,8 @@
 - name: Postman
   weight: 3
   
-  - name: Maven
+- name: Maven
   weight: 2
   
-  - name: Docker
+- name: Docker
   weight: 3
