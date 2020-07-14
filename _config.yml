@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Hi, my name is Milos. I am in my 4th year of Software Engineering at the Univeresity of Western Ontario.<br>I am currently on co-op as a Software Engineer at General Dynamics Mission Systems-Canada. I am always looking for interesting opportunities, reach me by <a href="mailto:marsik@uwo.ca">email</a>.
+about_me_description: Hi, my name is Milos. I am in my 4th year of Software Engineering at the Univeresity of Western Ontario. I am currently on co-op as a Software Engineer at General Dynamics Mission Systems-Canada.<br><br>I am always looking for interesting opportunities, reach me by <a href="mailto:marsik@uwo.ca">email</a>.
 
 #checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
 
@@ -71,7 +71,7 @@ projects_title: Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
 
@@ -88,7 +88,7 @@ contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, se
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: milosarsik/milosarsik.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
