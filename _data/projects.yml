@@ -13,21 +13,17 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Late Sleeper
+  descr: "A sleep tracker with a daily diary and smart clock to keep you off your phone at night. Senses phone activity during sleep hours and scores your sleep pattern. Vibrates when phone is moved or used during sleep hours."
+  demo: https://www.youtube.com/watch?v=z14ogKdjQAg&t=3s
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: Java
+    - tag: Android Studio
+    - tag: Firebase
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: WE MARS Mission Control
+  descr: "An app used to control the Western Mars Rover. Sends commands through web sockets and provides a range of control methods in one application; button, joystick, tilt, gamepad (PS4) and voice control."
+  demo: https://github.com/milosarsik/WE-Mars-Mission-Control
   tags:
-    - tag: Python
-    - tag: Django
-
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+    - tag: Java
+    - tag: Android Studio
