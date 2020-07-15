@@ -13,12 +13,12 @@ $font-family-numbers: "Josefin Sans", sans-serif;
 $font-size-base: 1rem !default;
 $font-size-h1: 2rem !default;
 $font-weight-strong: 600;
-$text-color: #fff !default;
-$bg-color: rgba(43, 45, 47, 1);
+$text-color: rgb(0, 0, 0) !default;
+$bg-color: rgba(236, 240, 243, 1);
 $card-bg-color: linear-gradient(
   145deg,
   rgba(115, 115, 115, 0.15) 15%,
-  rgba(43, 45, 47, 1) 80%
+  rgba(236, 240, 243, 1) 80%
 );
 $primary-color: #0066cc;
 
