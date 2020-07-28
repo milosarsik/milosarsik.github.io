@@ -38,3 +38,12 @@
     - tag: Java
     - tag: Android Studio
     - tag: LibGDX
+    
+- name: Sketchpad
+  descr: "A sketchpad written in Java using JavaFX. Users can draw within the canvas, different shapes, colors, and other features."
+  demo: https://www.youtube.com/watch?v=qYM1TEgEnIM&t=135s
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuSV0hdcjOMSbJMuFQztPw-CfvcmoQEcJwWQ&usqp=CAU
+  tags:
+    - tag: Java
+    - tag: Android Studio
+    - tag: LibGDX
