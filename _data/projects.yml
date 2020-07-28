@@ -25,7 +25,7 @@
 - name: WE MARS Mission Control
   descr: "An app used to control the Western Mars Rover. Sends commands through web sockets and provides a range of control methods in one application; button, joystick, tilt, gamepad (PS4) and voice control."
   demo: https://github.com/milosarsik/WE-Mars-Mission-Control
-  image: https://p7.hiclipart.com/preview/237/251/752/astronaut-cartoon-outer-space-clip-art-astronaut-cliparts.jpg
+  image: https://i.pinimg.com/originals/d4/04/2b/d4042bebb6b18f445b0bcdd8b1d0fb0b.jpg
   tags:
     - tag: Java
     - tag: Android Studio
