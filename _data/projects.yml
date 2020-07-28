@@ -16,7 +16,7 @@
 - name: Late Sleeper
   descr: "A sleep tracker with a daily diary and smart clock to keep you off your phone at night. Senses phone activity during sleep hours and scores your sleep pattern. Vibrates when phone is moved or used during sleep hours."
   demo: https://www.youtube.com/watch?v=z14ogKdjQAg&t=3s
-  image: https://cdn.gozen.com/wp-content/uploads/2017/12/9_awake.jpg
+  image: https://www.pngitem.com/pimgs/m/515-5156135_boy-sleeping-cartoon-hd-png-download.png
   tags:
     - tag: Java
     - tag: Android Studio
@@ -25,7 +25,7 @@
 - name: WE MARS Mission Control
   descr: "An app used to control the Western Mars Rover. Sends commands through web sockets and provides a range of control methods in one application; button, joystick, tilt, gamepad (PS4) and voice control."
   demo: https://github.com/milosarsik/WE-Mars-Mission-Control
-  image: https://media.licdn.com/dms/image/C560BAQGKa9KYtUEoPw/company-logo_200_200/0?e=2159024400&v=beta&t=1ddrwM5Zsf_fVKOu9Og81I2140w2g_LFC2vkauOZ_Kw
+  image: https://p7.hiclipart.com/preview/237/251/752/astronaut-cartoon-outer-space-clip-art-astronaut-cliparts.jpg
   tags:
     - tag: Java
     - tag: Android Studio
