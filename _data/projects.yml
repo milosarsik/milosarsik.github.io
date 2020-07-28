@@ -29,3 +29,12 @@
   tags:
     - tag: Java
     - tag: Android Studio
+
+- name: Flappy Bird
+  descr: "Clone of the popular mobile game Flappy Bird, created using the LibGDX game development framework."
+  demo: https://github.com/milosarsik/flappy-bird-clone
+  image: https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png
+  tags:
+    - tag: Java
+    - tag: Android Studio
+    - tag: LibGDX
