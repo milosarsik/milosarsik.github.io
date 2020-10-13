@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Hi, my name is Milos. I am in my 4th year of Software Engineering at the Univeresity of Western Ontario. I am currently on co-op as a Software Engineer at General Dynamics Mission Systems-Canada.<br><br>I am always looking for interesting opportunities, reach me by <a href="mailto:marsik@uwo.ca">email</a>.
+about_me_description: Hi, my name is Milos. I am in my 4th year of Software Engineering at the Univeresity of Western Ontario.<br><br>I am always looking for interesting opportunities, reach me by <a href="mailto:marsik@uwo.ca">email</a>.
 
 #checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
 
@@ -55,7 +55,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://drive.google.com/file/d/1l7nUc2sE2ovt40X9sWzXakFWrK2ZHN1e/view?usp=sharing
 
 # PROJECTS SECTION
 # show_projects_card:
