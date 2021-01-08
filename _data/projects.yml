@@ -13,6 +13,24 @@
 #     - tag: AngularJS
 #     - tag: Node
 
+- name: Locked Up
+  descr: "A single player prison simulation game with weapon specific combat, player statistics, AI NPC’s, driving and sports"
+  demo: https://milosarsik.itch.io/locked-up
+  image: https://img.itch.zone/aW1nLzQ3MzI4MDAucG5n/105x83%23/WKjTc2.png
+  tags:
+    - tag: C#
+    - tag: Unity
+    - tag: Blender
+
+- name: Flappy Bird
+  descr: "Clone of the popular mobile game Flappy Bird, created using the LibGDX game development framework."
+  demo: https://github.com/milosarsik/flappy-bird-clone
+  image: https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png
+  tags:
+    - tag: Java
+    - tag: Android Studio
+    - tag: LibGDX
+
 - name: Late Sleeper
   descr: "A sleep tracker with a daily diary and smart clock to keep you off your phone at night. Senses phone activity during sleep hours and scores your sleep pattern. Vibrates when phone is moved or used during sleep hours."
   demo: https://www.youtube.com/watch?v=z14ogKdjQAg&t=3s
@@ -30,15 +48,6 @@
     - tag: Java
     - tag: Android Studio
 
-- name: Flappy Bird
-  descr: "Clone of the popular mobile game Flappy Bird, created using the LibGDX game development framework."
-  demo: https://github.com/milosarsik/flappy-bird-clone
-  image: https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png
-  tags:
-    - tag: Java
-    - tag: Android Studio
-    - tag: LibGDX
-    
 - name: Sketchpad
   descr: "A sketchpad written in Java using JavaFX. Users can draw within the canvas, different shapes, colors, and other features."
   demo: https://www.youtube.com/watch?v=qYM1TEgEnIM&t=135s
