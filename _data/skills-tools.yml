@@ -6,7 +6,7 @@
 #   weight: 5
 
 - name: Git
-  weight: 2
+  weight: 5
   
 - name: ClearCase
   weight: 2
@@ -27,4 +27,4 @@
   weight: 2
   
 - name: Docker
-  weight: 3
+  weight: 4

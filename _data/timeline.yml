@@ -17,6 +17,15 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Royal Bank of Canada
+  title-url: https://www.rbc.com/about-rbc.html
+  date: Sep 2020 - Present
+  subtitle: Software Developer (Contract)
+  tags:
+    - tag: Python
+    - tag: Hadoop
+  timeline-side: left
+
 - title: General Dynamics Mission Systems-Canada
   title-url: https://gdmissionsystems.ca/
   date: May 2020 - Present

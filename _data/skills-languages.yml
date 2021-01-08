@@ -6,7 +6,7 @@
 #   weight: 5
 
 - name: Java
-  weight: 5
+  weight: 4
 
 - name: JavaScript
   weight: 3
@@ -24,10 +24,10 @@
   weight: 3
 
 - name: C#
-  weight: 2
+  weight: 5
 
 - name: Ada
   weight: 1
 
 - name: Groovy
-  weight: 1
+  weight: 2
